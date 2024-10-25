@@ -7,8 +7,6 @@
 ## Запуск приложения
 
 1. Убедитесь, что у вас установлены [Docker](https://docs.docker.com/get-docker/) и [Docker Compose](https://docs.docker.com/compose/install/).
-2. Склонируйте репозиторий:
-   git clone https://github.com/USERNAME/time-tracker.git
-   cd time-tracker
+2. Склонируйте репозиторий
 3. Запустите контейнеры с помощью Docker Compose:
    docker-compose up --build
